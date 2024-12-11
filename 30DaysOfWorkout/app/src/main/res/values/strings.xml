@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">30 Days of Recipes</string>
+
+    <string name="date1">Workout day 1</string>
+    <string name="title1">superman</string>
+    <string name="description1">superman untuk keseimbangan.</string>
+
+    <string name="date2">Workout day 2</string>
+    <string name="title2">set flank</string>
+    <string name="description2">set flank untuk core.</string>
+
+    <string name="date3">workout day 3</string>
+    <string name="title3">flank</string>
+    <string name="description3">flank untuk otot perut.</string>
+
+    <string name="date4">workout day 4</string>
+    <string name="title4">lompat tali</string>
+    <string name="description4">lompat tali untuk otot kaki.</string>
+
+    <string name="date5">workout day 5</string>
+    <string name="title5">sit-up</string>
+    <string name="description5">sit-up untuk otot perut.</string>
+
+    <string name="date6">workout day 6</string>
+    <string name="title6">pull-up</string>
+    <string name="description6">pull-up untuk otot tangan.</string>
+
+    <string name="date7">workout day 7</string>
+    <string name="title7">push-up</string>
+    <string name="description7">push-up untuk melatih lengan.</string>
+    
+</resources>
